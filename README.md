@@ -122,3 +122,6 @@ GitHub repositories,
 the latest release version is supported to the extent possible.
 No level of support is actually guaranteed;
 this user supports these repositories in their limited free time.
+
+Forks are only included if they indicate that this user has taken responsibility
+for them.
