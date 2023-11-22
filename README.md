@@ -6,8 +6,8 @@ Most works are [automatically covered by copyright](
     https://alacc.org.au/faqs/#panel-137
 ),
 but
-all of this user's original GitHub contributions are dedicated to the public
-domain
+all of this user's original GitHub contributions
+are dedicated to the public domain
 (no copyright)
 under
 the [CC0
@@ -103,6 +103,26 @@ examples are given below.
   uses [strict mode](
     https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
   )).
+
+### Security
+
+* Software is secure by default.
+  In particular:
+    
+    * Software,
+      by default,
+      respects existing security boundaries,
+      including those between operating system users.
+      In particular:
+        
+        * Software creates temporary files
+          (and directories)
+          securely.
+        * Software properly handles the possibility of local web servers being
+          accessed by other local users.
+    * Software does not access the network,
+      except as necessary to follow the commands it is given.
+* Recommendations given in documentation are secure.
 
 ### Support
 
