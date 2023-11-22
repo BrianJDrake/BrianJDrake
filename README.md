@@ -1,48 +1,23 @@
 # Brian Drake
 
-## Copyright waiver
-
-Most works are [automatically covered by copyright](
-    https://alacc.org.au/faqs/#panel-137
-),
-but
-all of this user's original GitHub contributions
-are dedicated to the public domain
-(no copyright)
-under
-the [CC0
-    1.0
-    Public Domain Dedication](
-        https://creativecommons.org/publicdomain/zero/1.0/
-    ),
-a copy of which is in [LICENSE.txt](
-    LICENSE.txt
-).
-
-## Freedom
-
-All of this user's GitHub contributions
-(including third party material,
-except some quotes)
-are libre
-(or 'free as in freedom').
-This means that they provide the public
-[basic freedoms](
-    https://www.fsf.org/about/what-is-free-software
-);
-these are the freedom to:
-* Use the material for any purpose.
-* Study and change the material.
-* Distribute the material
-  (with or without changes).
-
-These freedoms are provided automatically,
-with minimal requirements
-(such as attribution),
-and
-can only be revoked for a particular user if that user violates those
-requirements.
-Material that denies the public these freedoms is called 'proprietary'.
+This user's GitHub contributions:
+* Meet the general standards described below for
+  clarity,
+  modularisation,
+  security
+  and
+  support.
+* Are supported to the extent possible in this user's limited free time.
+* (for original contributions) Are free of copyright.
+* Are libre
+  (or 'free as in freedom'),
+  meaning that everyone is free to
+  use,
+  study,
+  change
+  and
+  distribute
+  them.
 
 ## Software standards
 
@@ -145,3 +120,47 @@ this user supports these repositories in their limited free time.
 
 Forks are only included if they indicate that this user has taken responsibility
 for them.
+
+## Copyright waiver
+
+Most works are [automatically covered by copyright](
+    https://alacc.org.au/faqs/#panel-137
+),
+but
+all of this user's original GitHub contributions
+are dedicated to the public domain
+(no copyright)
+under
+the [CC0
+    1.0
+    Public Domain Dedication](
+        https://creativecommons.org/publicdomain/zero/1.0/
+    ),
+a copy of which is in [LICENSE.txt](
+    LICENSE.txt
+).
+
+## Freedom
+
+All of this user's GitHub contributions
+(including third party material,
+except some quotes)
+are libre
+(or 'free as in freedom').
+This means that they provide the public
+[basic freedoms](
+    https://www.fsf.org/about/what-is-free-software
+);
+these are the freedom to:
+* Use the material for any purpose.
+* Study and change the material.
+* Distribute the material
+  (with or without changes).
+
+These freedoms are provided automatically,
+with minimal requirements
+(such as attribution),
+and
+can only be revoked for a particular user if that user violates those
+requirements.
+Material that denies the public these freedoms is called 'proprietary'.
