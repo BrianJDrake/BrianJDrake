@@ -25,7 +25,7 @@ All of this user's software meets,
 and all software should meet,
 the general standards below.
 
-Somn commonly accepted software does not meet these standards;
+Some commonly accepted software does not meet these standards;
 in some cases,
 examples are given below.
 
